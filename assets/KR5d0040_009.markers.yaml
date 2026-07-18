@@ -809,6 +809,7 @@ markers:
   - {type: indent, offset: 2128, content: 　, id: KR5d0040_krp_009-bkkind98}
   - {type: substitution, offset: 2133, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: punctuation, offset: 2142, content: (, id: KR5d0040_krp_009-bkkpn1}
+  - {type: voice, offset: 2142, length: 4, name: note, id: n1}
   - {type: punctuation, offset: 2144, content: /, id: KR5d0040_krp_009-bkkpn2}
   - {type: punctuation, offset: 2146, content: ), id: KR5d0040_krp_009-bkkpn3}
   - {type: 'kr:newline', offset: 2146, content: '
@@ -1850,6 +1851,7 @@ markers:
   - {type: line-break, offset: 4791, content: '', id: KR5d0040_HFL_009-017b01}
   - {type: indent, offset: 4791, content: 　, id: KR5d0040_krp_009-bkkind233}
   - {type: punctuation, offset: 4800, content: (, id: KR5d0040_krp_009-bkkpn4}
+  - {type: voice, offset: 4800, length: 3, name: note, id: n2}
   - {type: punctuation, offset: 4802, content: /, id: KR5d0040_krp_009-bkkpn5}
   - {type: punctuation, offset: 4803, content: ), id: KR5d0040_krp_009-bkkpn6}
   - {type: 'kr:newline', offset: 4803, content: '
@@ -2202,6 +2204,7 @@ markers:
   - {type: line-break, offset: 5663, content: '', id: KR5d0040_HFL_009-020a09}
   - {type: indent, offset: 5663, content: 　, id: KR5d0040_krp_009-bkkind281}
   - {type: punctuation, offset: 5663, content: (, id: KR5d0040_krp_009-bkkpn7}
+  - {type: voice, offset: 5663, length: 4, name: note, id: n3}
   - {type: punctuation, offset: 5665, content: /, id: KR5d0040_krp_009-bkkpn8}
   - {type: punctuation, offset: 5667, content: ), id: KR5d0040_krp_009-bkkpn9}
   - {type: 'kr:newline', offset: 5667, content: '
@@ -2268,4 +2271,4 @@ markers:
 
       ', id: KR5d0040_krp_009-bkkkrnewl439}
   back: []
-hash: sha256:6b8fa9e418e12f97d0a967130686a6a818e103db065165173fc1c378bd4309e3
+hash: sha256:f4622bda08e061a78692fdaad1a7d911c75c54907cf64c0af6739f566b8dccb0

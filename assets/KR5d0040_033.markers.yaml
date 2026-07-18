@@ -503,6 +503,7 @@ markers:
   - {type: line-break, offset: 1251, content: '', id: KR5d0040_HFL_033-005a07}
   - {type: indent, offset: 1251, content: 　, id: KR5d0040_krp_033-bkkind79}
   - {type: punctuation, offset: 1252, content: (, id: KR5d0040_krp_033-bkkpn1}
+  - {type: voice, offset: 1252, length: 6, name: note, id: n1}
   - {type: substitution, offset: 1253, original: 譆, replacement: 嘻, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17732}}
   - {type: punctuation, offset: 1255, content: /, id: KR5d0040_krp_033-bkkpn2}
   - {type: punctuation, offset: 1258, content: ), id: KR5d0040_krp_033-bkkpn3}
@@ -817,6 +818,7 @@ markers:
   - {type: line-break, offset: 2038, content: '', id: KR5d0040_HFL_033-008a02}
   - {type: indent, offset: 2038, content: 　, id: KR5d0040_krp_033-bkkind129}
   - {type: punctuation, offset: 2044, content: (, id: KR5d0040_krp_033-bkkpn4}
+  - {type: voice, offset: 2044, length: 8, name: note, id: n2}
   - {type: punctuation, offset: 2048, content: /, id: KR5d0040_krp_033-bkkpn5}
   - {type: punctuation, offset: 2052, content: ), id: KR5d0040_krp_033-bkkpn6}
   - {type: 'kr:newline', offset: 2052, content: '
@@ -1448,6 +1450,7 @@ markers:
   - {type: line-break, offset: 3497, content: '', id: KR5d0040_HFL_033-013a10}
   - {type: indent, offset: 3497, content: 　, id: KR5d0040_krp_033-bkkind221}
   - {type: punctuation, offset: 3508, content: (, id: KR5d0040_krp_033-bkkpn7}
+  - {type: voice, offset: 3508, length: 3, name: note, id: n3}
   - {type: punctuation, offset: 3510, content: /, id: KR5d0040_krp_033-bkkpn8}
   - {type: punctuation, offset: 3511, content: ), id: KR5d0040_krp_033-bkkpn9}
   - {type: 'kr:newline', offset: 3511, content: '
@@ -3722,4 +3725,4 @@ markers:
 
       ', id: KR5d0040_krp_033-bkkkrnewl714}
   back: []
-hash: sha256:6bb4d2381ba20353042562a0c5d9355188a334dfa348c2a8ffdd9376fa4bab75
+hash: sha256:87a7d8e87a24d1d81700655de61e5c18461725b1ab2d582b759d0ce64f3018a5
